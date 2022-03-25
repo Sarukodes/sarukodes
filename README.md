@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @prabincankod
-- 👀 I’m interested in Nodejs , TS , Python , UI/UX
+- 👋 Hi, I’m @sarukodes
+- 👀 I’m interested in Python, Java
