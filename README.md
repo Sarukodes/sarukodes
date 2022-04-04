@@ -7,7 +7,7 @@
 - I love my bestfriend❤️
 
 <h3 align="left">Connect with me:</h3>
-https://www.facebook.com/saru.koirala.140
+<a href="https://www.facebook.com/saru.koirala.140/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="c" width="40" height="40"/> 
 <p align="left">
 </p>
 
