@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarukodes&label=Profile%20views&color=0e75b6&style=flat" alt="sarukodes" /> </p>
 
-- 🔭 I’m currently working on **calculator**
+- 🔭 I’m currently working on **Myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
