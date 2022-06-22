@@ -22,7 +22,7 @@ const Body = () => {
     <VStack p={5}>
       <Image
         src="https://avatars.githubusercontent.com/u/102367555?v=4"
-        alt="prabincankod github image"
+        alt="sarukoirala's github image"
         borderRadius="full"
         boxSize="90px"
       />
@@ -33,9 +33,9 @@ const Body = () => {
       >
         Saru Koirala
       </Heading>
-      <Image alt="prabincankod's gthub stats" src={statsUrl} />
+      <Image alt="sarukoirala's gthub stats" src={statsUrl} />
 
-      <Image alt="prabincankod's github streak" src={streaksUrl} />
+      <Image alt="sarukoirala's github streak" src={streaksUrl} />
     </VStack>
   );
 };
