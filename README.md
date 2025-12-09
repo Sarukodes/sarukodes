@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saru</h1>
-<h3 align="center">A codeGeek HighSchool student from Nepal.</h3>
+<h3 align="center">A codeGeek international student in canada from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarukodes&label=Profile%20views&color=0e75b6&style=flat" alt="sarukodes" /> </p>
 
